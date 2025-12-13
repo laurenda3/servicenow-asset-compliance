@@ -1,4 +1,4 @@
-# Project 1: Asset & NSPIRE Compliance Tracking System
+# Asset & NSPIRE Compliance Tracking System
 
 **ServiceNow Portfolio Project** | *Problem-Solver*
 
@@ -160,9 +160,9 @@ A comprehensive asset management and compliance tracking system built in Service
 
 ## Author
 
-Lauren Anderson  
+Laurenda Landry  
 ServiceNow Developer Portfolio  
-[LinkedIn](https://linkedin.com/in/your-profile) | [Portfolio](https://your-portfolio.com)
+[LinkedIn](https://linkedin.com/in/lauland) | [Portfolio](https://lauland.dev)
 
 ## License
 
