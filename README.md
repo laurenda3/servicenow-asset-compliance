@@ -1,7 +1,5 @@
 # Asset & NSPIRE Compliance Tracking System
 
-**ServiceNow Portfolio Project** | *Problem-Solver*
-
 ## Overview
 
 A comprehensive asset management and compliance tracking system built in ServiceNow to solve real-world property maintenance challenges at a 125-unit HUD Section 8 property. This project demonstrates database design, business process automation, and regulatory compliance management.
@@ -142,15 +140,9 @@ A comprehensive asset management and compliance tracking system built in Service
 
 **No plugins required** - Built entirely on core ServiceNow platform
 
-## Portfolio Talking Points
-
-**Elevator Pitch:**
-> "I built a compliance tracking system that reduced NSPIRE inspection failures by 40%. The system automatically tracks 400+ appliances across 125 units, calculates correction deadlines based on deficiency severity, and alerts staff to life-threatening violations within minutes. This saves the property $30K annually in avoided penalties and eliminated all duplicate purchases through centralized asset visibility."
-
-**Technical Highlight:**
-> "The most challenging aspect was designing deadline auto-calculation logic that meets HUD regulations - life-threatening deficiencies require 24-hour correction, while moderate issues allow 30 days. I implemented this using ServiceNow Business Rules that trigger before record insertion, calculating deadlines based on inspection date and severity level. This ensures 100% compliance with federal standards while removing manual calculation errors."
-
 ## Technologies
+
+
 
 - ServiceNow Platform (Zurich release)
 - JavaScript (Business Rules, Client Scripts)
@@ -164,12 +156,6 @@ Laurenda Landry
 ServiceNow Developer Portfolio  
 [LinkedIn](https://linkedin.com/in/lauland) | [Portfolio](https://lauland.dev)
 
-## License
-
-Educational/Portfolio Project - Not for commercial use
-
 ---
 
-**Project Status:** ✅ Complete  
-**Build Time:** 7 hours  
-**Completion Date:** December 11, 2024
+*Built with ServiceNow Platform (Zurich Release)*
