@@ -138,11 +138,8 @@ A comprehensive asset management and compliance tracking system built in Service
 5. Set up email notifications
 6. Populate test data
 
-**No plugins required** - Built entirely on core ServiceNow platform
 
 ## Technologies
-
-
 
 - ServiceNow Platform (Zurich release)
 - JavaScript (Business Rules, Client Scripts)
@@ -153,7 +150,6 @@ A comprehensive asset management and compliance tracking system built in Service
 ## Author
 
 Laurenda Landry  
-ServiceNow Developer Portfolio  
 [LinkedIn](https://linkedin.com/in/lauland) | [Portfolio](https://lauland.dev)
 
 ---
